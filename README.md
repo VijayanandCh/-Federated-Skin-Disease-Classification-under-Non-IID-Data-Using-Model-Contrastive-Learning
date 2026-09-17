@@ -1,1 +1,1 @@
-# -Federated-Skin-Disease-Classification-under-Non-IID-Data-Using-Model-Contrastive-Learning
+# Federated-Skin-Disease-Classification-under-Non-IID-Data-Using-Model-Contrastive-Learning
